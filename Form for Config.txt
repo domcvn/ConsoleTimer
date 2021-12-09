@@ -1,0 +1,8 @@
+consoletimerconfig
+numbersOfIntervals-<uint>
+numbersOfTimers-<uint>
+timer-<uint>-<string>-<uint>
+...
+interval-<uint>-<string>
+...
+
